@@ -1,0 +1,35 @@
+* commit b852227388ce2ee16d1959b806d0752585cebdb2
+| Author: Rami <ramih@Rami.>
+| Date:   Fri Jul 18 14:38:33 2025 +0300
+| 
+|     adding enigma.py
+| 
+|  enigma.py | 135 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--
+|  1 file changed, 131 insertions(+), 4 deletions(-)
+| 
+* commit 1b3c19662ab4e36f6011ff5a02f7feee2b28e07f
+| Author: Rami <ramih@Rami.>
+| Date:   Fri Jul 18 14:36:20 2025 +0300
+| 
+|     adding skeleton files
+| 
+|  config_file.json     | 14 ++++++++++++++
+|  enigma.py            | 11 +++++++++++
+|  tests/test1.expexted |  1 +
+|  tests/test1.in       |  1 +
+|  tests/test2.expexted |  4 ++++
+|  tests/test2.in       |  4 ++++
+|  tests/test3.expexted |  2 ++
+|  tests/test3.in       |  2 ++
+|  tests/test4.expexted |  2 ++
+|  tests/test4.in       |  2 ++
+|  10 files changed, 43 insertions(+)
+| 
+* commit b74e766e5650e1e27c77139820e2792b24587f9c
+  Author: AyaA117 <a.aya@campus.technion.ac.il>
+  Date:   Thu Jul 17 10:40:59 2025 +0300
+  
+      push dry.pdf
+  
+   dry.pdf | Bin 0 -> 623502 bytes
+   1 file changed, 0 insertions(+), 0 deletions(-)
